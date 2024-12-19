@@ -35,9 +35,15 @@ Isolation Forest est plus rapide mais peut manquer certaines anomalies subtiles.
 
 Travaux Futurs Pour améliorer ce projet :
 
-Intégration de nouvelles méthodes comme le clustering ou les GANs. Optimisation des hyperparamètres pour réduire les faux positifs. Implémentation d'un tableau de bord pour le monitoring temps réel. Instructions pour l'exécution 6.1 Installation des dépendances Pour installer les dépendances nécessaires, exécutez la commande suivante :
+Intégration de nouvelles méthodes comme le clustering ou les GANs.
+Optimisation des hyperparamètres pour réduire les faux positifs. 
+Implémentation d'un tableau de bord pour le monitoring temps réel. 
 
-pip install -r requirements.txt 6.2 Visualisation du projet
+Instructions pour l'exécution 6.1 Installation des dépendances Pour installer les dépendances nécessaires, exécutez la commande suivante :
+
+pip install -r requirements.txt 
+
+6.2 Visualisation du projet
 
 Pour lancer l'application Streamlit et visualiser les anomalies détectées, utilisez la commande suivante :
 
